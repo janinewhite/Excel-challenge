@@ -1,3 +1,5 @@
-# data-analytics-homework
+# Excel Challenge
 
-U of A Data Analytics Bootcamp Homework 1
+Analyzed 4000 Kickstarter projects in Excel
+
+
